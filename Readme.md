@@ -38,15 +38,6 @@ python rock_paper_scissors.py
 - Comprehensive condition checking for all possible outcomes
 - User-friendly output with clear messages
 
-### Logic Implementation
-<!-- Computer random choice
-computer = random.choice([1, -1, 0])
-
-User input mapping
-youDict = {"r": 1, "p": -1, "s": 0}
-
-Result determination through conditional checks -->
-
 ## Technologies Used
 - Python 3.x - Core programming language
 - Random Module - For computer move generation
